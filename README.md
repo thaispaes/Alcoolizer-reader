@@ -15,9 +15,10 @@
  
 ---
  * __Deseja testar o alcoolizer?__
+ 
  *Caso tenha interesse em testar a aplicação pode entrar em contato com um dos contribuidores*
  
 
-*Obrigado por visualizar o projeto, caso tenha dúvidas ou dicas pode entrar em contato :v:*
+*__Obrigado por visualizar o projeto, caso tenha dúvidas ou dicas pode entrar em contato :v:__*
  
  
